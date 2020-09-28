@@ -1,0 +1,41 @@
+body{
+    padding: 80;
+    margin: 10;
+    
+    }
+    body,td{
+        font-weight: bold;
+    }
+    input{
+        border: none;
+    }
+    
+    table{
+        border-collapse: collapse;
+    }
+    table,td{
+        
+        border:2px black solid; 
+        
+    }
+    .head{
+        /* text-align: center; */
+        width: 100%;
+    }
+    .cross{
+        writing-mode:tb-rl;
+        transform: rotate(-180deg);
+        text-align: center;
+
+    }
+    .pan{
+        text-transform: uppercase;
+    }
+    .right{
+       
+        text-align: right; 
+    }
+    #submit{
+         font-weight:1000;
+    }
+    
